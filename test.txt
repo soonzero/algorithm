@@ -1,1 +1,5 @@
-ddz=z=
+4
+aba
+abab
+abcabc
+a
