@@ -23,4 +23,4 @@ let [A, B, V] = fs
 // 낮 동안에 목표 높이까지 올라가기만 해도 성공할 수 있기 때문에
 // 나눌 수에서 미끄러질 높이를 빼줘야 함
 
-console.log(Math.ceil(V - B) / (A - B));
+console.log(Math.ceil((V - B) / (A - B)));
