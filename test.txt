@@ -1,1 +1,4 @@
-9 0 3
+The quick brown fox jumped over the lazy dogs.
+2 + 2 = 4
+New Zealand Programming Contest.
+#
